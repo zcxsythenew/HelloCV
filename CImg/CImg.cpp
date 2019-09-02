@@ -7,7 +7,7 @@
 ///
 /// 注释该行以不使用 CImg 作图（画三角形、圆形、线段）
 ///
-//#define USE_CIMG_LIBRARY_FOR_DRAWING
+#define USE_CIMG_LIBRARY_FOR_DRAWING
 
 using namespace cimg_library;
 using namespace std;
